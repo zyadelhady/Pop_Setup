@@ -33,3 +33,7 @@ go to st folder follow instructions but first run
 
 
 >>>>>>
+
+### install BTOP for TASK MANAGEER 
+
+### install asdf for node , npm , elixir 
