@@ -1,4 +1,4 @@
-##### to Add screenshot to shortcuts 
+### to Add screenshot to shortcuts 
 1 - create file and add 
  
   #!/bin/bash
@@ -15,7 +15,7 @@
 
 add the file path to the shortcut 
 
-## for the screenshot with save 
+### for the screenshot with save 
  
 #!/bin/bash
 
@@ -25,7 +25,7 @@ maim -s --noopengl > /home/zyad/screenshots/screenshot.$(date +%F.%R:%S).png
 
 
 
-#####  to install st terminal 
+###  to install st terminal 
 
 go to st folder follow instructions but first run 
 
